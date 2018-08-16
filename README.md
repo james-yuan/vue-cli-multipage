@@ -19,3 +19,7 @@ npm run build
 > Please try turning 'Safe write' option ( Settings | Appearance & Behavior | System Settings | Use "safe write" (save changes to temporary file first)) off
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+vue+vuecli+webapck2实现多页面应用
+https://www.cnblogs.com/moqiutao/p/8522293.html
